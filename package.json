@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "eslint-plugin-react-hooks": "^4.6.0-next-2c8a1452b-20220512",
+    "fs": "^0.0.1-security",
     "local-storage": "^2.0.0",
     "next": "12.1.5",
     "react": "18.0.0",
