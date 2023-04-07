@@ -5,7 +5,6 @@ import Listings from '../pages/listings';
 import listingData from '../pages/listingData';
 import Search from '../pages/Search';
 import React, { Component } from "react";
-import { constants } from 'crypto';
 import Footer from './Footer'
 
 
