@@ -1,4 +1,4 @@
-import MainLayout from '../componets/MainLayout'
+import MainLayout from '../componets/Mainlayout';
 import '../styles/styles.scss'
 import  {Hboprovider} from '../pages/Hboprovider'
 

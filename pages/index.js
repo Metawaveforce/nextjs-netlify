@@ -1,13 +1,10 @@
-import Head from 'next/head'
+
 import Login from '/pages/login';
 import { useRouter } from 'next/router'
 import { useStateContext } from '../pages/Hboprovider'
 import { useEffect,} from 'react'
-import MainLayout from '../componets/MainLayout';
-import Headers from '../pages/Headers';
-import Filters from '../pages/Filters';
-import listingsData from '../pages/listingData';
-import Listing from '../pages/listings'
+import MainLayout from '../componets/Mainlayout';
+
 
 
 export default function Index() {
