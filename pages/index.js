@@ -1,9 +1,9 @@
 
 import Login from '../pages/login';
 import { useRouter } from 'next/router'
-import { useStateContext } from '../pages/Hboprovider'
+import { useStateContext } from '../componets/Hboprovider'
 import { useEffect,} from 'react'
-import MainLayout from '../componets/Mainlayout';
+import MainLayout from '../componets/MainLayout';
 
 
 

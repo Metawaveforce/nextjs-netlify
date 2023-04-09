@@ -2,7 +2,7 @@ import Head from 'next/head'
 import Image from 'next/image'
 import React, { useState } from 'react';
 import { render } from 'react-dom';
- import listingData from "../pages/listingData";
+ import listingData from "../componets/listingData";
 
 
 

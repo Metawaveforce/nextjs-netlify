@@ -1,6 +1,5 @@
-import MainLayout from '../componets/Mainlayout';
 import '../styles/styles.scss'
-import  {Hboprovider} from '../pages/Hboprovider'
+import  {Hboprovider} from '../componets/Hboprovider'
 
 function MyApp({ Component, pageProps }) {
   return (

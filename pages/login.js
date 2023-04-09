@@ -4,7 +4,7 @@ import React, { useContext, useState } from  'react';
 import { useRouter} from 'next/router'
 import { useEffect} from 'react';
 import ls  from 'local-storage';
-import { useStateContext } from './Hboprovider'
+import { useStateContext } from '../componets/Hboprovider'
 // import { useMounted } from '../Hooks/useMounted';
 
 

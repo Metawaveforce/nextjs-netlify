@@ -2,7 +2,7 @@ import Head from 'next/head'
 import Headers from '../pages/Headers';
 import Filters from '../pages/Filters';
 import Listings from '../pages/listings';
-import listingData from '../pages/listingData';
+import listingData from './listingData';
 import Search from '../pages/Search';
 import React, { Component } from "react";
 import Footer from './Footer'

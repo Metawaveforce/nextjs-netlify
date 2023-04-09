@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import Image from 'next/image'
-import { useStateContext } from './Hboprovider'
+import { useStateContext } from '../componets/Hboprovider'
 import ls from 'local-storage'
 import {v4} from 'uuid'
 import {useRouter} from 'next/router'
