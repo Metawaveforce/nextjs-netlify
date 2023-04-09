@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import Image from 'next/image'
-import MainLayout from '../componets/Mainlayout';
+import MainLayout from '../componets/MainLayout';
 
 
 
