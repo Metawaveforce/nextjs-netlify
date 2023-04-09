@@ -1,5 +1,5 @@
 
-import Login from '/pages/login';
+import Login from '../pages/login';
 import { useRouter } from 'next/router'
 import { useStateContext } from '../pages/Hboprovider'
 import { useEffect,} from 'react'
